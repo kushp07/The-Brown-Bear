@@ -1,2 +1,2 @@
-# The-Brown-Bear
+# TheBrownBear
 Local website created using HTML
